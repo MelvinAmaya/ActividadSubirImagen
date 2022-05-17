@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249055212043",
+    "project_id": "subir-imagen-800b8",
+    "storage_bucket": "subir-imagen-800b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249055212043:android:31bc529ea1860e46de0d0e",
+        "android_client_info": {
+          "package_name": "com.example.actividadsubirimagen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249055212043-vnu5bkpjo0r4qkkuk4uolgnn8iue5ip1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQ4yjUQdhAHQx0K8Y1TTuy2W-qnRN9L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249055212043-vnu5bkpjo0r4qkkuk4uolgnn8iue5ip1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

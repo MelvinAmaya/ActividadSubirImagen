@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActividadSubirImagen</string>
+    <string name="login">Login</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="login2">LOGIN</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
